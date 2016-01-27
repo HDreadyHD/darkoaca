@@ -1,0 +1,921 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="463" tvg-name="INFO Kanal Art" tvg-logo="images/na.png" group-title="01. SRPSKI",INFO Kanal Art - INFO Kanal Art
+http://strimer1.iptv-max.com:80/live?channelId=463&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="3" tvg-name="RTS 1" tvg-logo="images/rts1.png" group-title="01. SRPSKI",RTS 1 - RTS 1
+http://strimer3.iptv-max.com:80/live?channelId=3&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="550" tvg-name="RTS 1." tvg-logo="images/rts1.png" group-title="01. SRPSKI",RTS 1. - RTS 1.
+http://strimer5.iptv-max.com:80/live?channelId=550&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="2" tvg-name="RTS 2" tvg-logo="images/rts2.png" group-title="01. SRPSKI",RTS 2 - RTS 2
+http://strimer3.iptv-max.com:80/live?channelId=2&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="10" tvg-name="Prva TV" tvg-logo="images/prva.png" group-title="01. SRPSKI",Prva TV - Prva TV
+http://strimer3.iptv-max.com:80/live?channelId=10&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="408" tvg-name="Prva TV." tvg-logo="images/prva.png" group-title="01. SRPSKI",Prva TV. - Prva TV.
+http://strimer6.iptv-max.com:80/live?channelId=408&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="24" tvg-name="B92" tvg-logo="images/b92.png" group-title="01. SRPSKI",B92 - B92
+http://strimer4.iptv-max.com:80/live?channelId=24&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="12" tvg-name="Pink TV" tvg-logo="images/pink.png" group-title="01. SRPSKI",Pink TV - Pink TV
+http://strimer4.iptv-max.com:80/live?channelId=12&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="188" tvg-name="PinkTV." tvg-logo="images/pink.png" group-title="01. SRPSKI",PinkTV. - PinkTV.
+http://strimer1.iptv-max.com:80/live?channelId=188&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="148" tvg-name="Happy" tvg-logo="images/happy.png" group-title="01. SRPSKI",Happy - Happy
+http://strimer3.iptv-max.com:80/live?channelId=148&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="407" tvg-name="Happy." tvg-logo="images/na.png" group-title="01. SRPSKI",Happy. - Happy
+http://strimer2.iptv-max.com:80/live?channelId=407&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="182" tvg-name="RTS HD" tvg-logo="images/rtshd.png" group-title="01. SRPSKI",RTS HD - RTS HD
+http://strimer2.iptv-max.com:80/live?channelId=182&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="109" tvg-name="RTRS" tvg-logo="images/rtrs.png" group-title="01. SRPSKI",RTRS - RTRS
+http://strimer1.iptv-max.com:80/live?channelId=109&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="549" tvg-name="RTRS." tvg-logo="images/rtrs.png" group-title="01. SRPSKI",RTRS. - RTRS.
+http://strimer5.iptv-max.com:80/live?channelId=549&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="149" tvg-name="Prva Plus" tvg-logo="images/prvaplus.png" group-title="01. SRPSKI",Prva Plus - Prva Plus
+http://strimer3.iptv-max.com:80/live?channelId=149&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="26" tvg-name="Nova RS" tvg-logo="images/novars.png" group-title="01. SRPSKI",Nova RS - Nova RS
+http://strimer3.iptv-max.com:80/live?channelId=26&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="271" tvg-name="N1 TV" tvg-logo="images/noicon.png" group-title="01. SRPSKI",N1 TV - N1 TV
+http://strimer4.iptv-max.com:80/live?channelId=271&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="184" tvg-name="KCN 1" tvg-logo="images/kcn1.png" group-title="01. SRPSKI",KCN 1 - Kopernikus 1
+http://strimer5.iptv-max.com:80/live?channelId=184&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="178" tvg-name="RTV 1" tvg-logo="images/rtv1.png" group-title="01. SRPSKI",RTV 1 - RTV 1
+http://strimer1.iptv-max.com:80/live?channelId=178&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="399" tvg-name="RTV 2" tvg-logo="images/rtv1.png" group-title="01. SRPSKI",RTV 2 - RTV 2
+http://strimer5.iptv-max.com:80/live?channelId=399&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="251" tvg-name="RTVSP" tvg-logo="images/noicon.png" group-title="01. SRPSKI",RTVSP - RTVSP
+http://nl.streamer.iptv-max.com:80/live?channelId=251&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="451" tvg-name="IN Oktobar (vs)" tvg-logo="images/inoktobar.png" group-title="01. SRPSKI",IN Oktobar (vs) - IN Oktobar (vs)
+http://strimer4.iptv-max.com:80/live?channelId=451&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="485" tvg-name="TV BANAT" tvg-logo="images/tvbanat.png" group-title="01. SRPSKI",TV BANAT - TV BANAT
+http://strimer1.iptv-max.com:80/live?channelId=485&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="490" tvg-name="Sky Plus" tvg-logo="images/skyplus.png" group-title="01. SRPSKI",Sky Plus - Sky Plus
+http://strimer5.iptv-max.com:80/live?channelId=490&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="497" tvg-name="RTV Novi Pazar" tvg-logo="images/na.png" group-title="01. SRPSKI",RTV Novi Pazar - RTV Novi Pazar
+http://strimer6.iptv-max.com:80/live?channelId=497&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="65" tvg-name="HRT 1" tvg-logo="images/hrt1.png" group-title="02. HRVATSKI",HRT 1 - HRT 1
+http://strimer5.iptv-max.com:80/live?channelId=65&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="66" tvg-name="HRT 2" tvg-logo="images/hrt2.png" group-title="02. HRVATSKI",HRT 2 - HRT 2
+http://strimer2.iptv-max.com:80/live?channelId=66&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="63" tvg-name="RTL" tvg-logo="images/rtl.png" group-title="02. HRVATSKI",RTL - RTL
+http://strimer2.iptv-max.com:80/live?channelId=63&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="52" tvg-name="RTL." tvg-logo="images/rtl.png" group-title="02. HRVATSKI",RTL. - RTL.
+http://strimer4.iptv-max.com:80/live?channelId=52&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="64" tvg-name="Nova TV" tvg-logo="images/novatv.png" group-title="02. HRVATSKI",Nova TV - Nova TV
+http://strimer5.iptv-max.com:80/live?channelId=64&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="67" tvg-name="RTL 2" tvg-logo="images/rtl2.png" group-title="02. HRVATSKI",RTL 2 - RTL 2
+http://strimer1.iptv-max.com:80/live?channelId=67&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="68" tvg-name="Doma" tvg-logo="images/doma.png" group-title="02. HRVATSKI",Doma - Doma
+http://strimer2.iptv-max.com:80/live?channelId=68&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="145" tvg-name="HRT 3" tvg-logo="images/hrt3.png" group-title="02. HRVATSKI",HRT 3 - HRT 3
+http://strimer2.iptv-max.com:80/live?channelId=145&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="146" tvg-name="HRT 4" tvg-logo="images/hrt4.png" group-title="02. HRVATSKI",HRT 4 - HRT 4
+http://strimer2.iptv-max.com:80/live?channelId=146&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="69" tvg-name="Klasik TV" tvg-logo="images/klasik.png" group-title="02. HRVATSKI",Klasik TV - Klasik TV
+http://strimer2.iptv-max.com:80/live?channelId=69&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="417" tvg-name="RTL Living" tvg-logo="images/rtlliving.png" group-title="02. HRVATSKI",RTL Living - RTL Living
+http://strimer2.iptv-max.com:80/live?channelId=417&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="183" tvg-name="Z1" tvg-logo="images/z1.png" group-title="02. HRVATSKI",Z1 - Z1
+http://strimer2.iptv-max.com:80/live?channelId=183&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="420" tvg-name="RTL Passion" tvg-logo="images/noicon.png" group-title="02. HRVATSKI",RTL Passion - RTL Passion
+http://strimer2.iptv-max.com:80/live?channelId=420&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="454" tvg-name="RTL Crime" tvg-logo="images/rtlcrime" group-title="02. HRVATSKI",RTL Crime - RTL Crime
+http://strimer4.iptv-max.com:80/live?channelId=454&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="72" tvg-name="BHT 1" tvg-logo="images/bht1.png" group-title="03. BOSANSKI",BHT 1 - BHT 1
+http://strimer2.iptv-max.com:80/live?channelId=72&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="479" tvg-name="BHT 1 HD" tvg-logo="images/bht1hd.png" group-title="03. BOSANSKI",BHT 1 HD - BHT 1 HD
+http://strimer5.iptv-max.com:80/live?channelId=479&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="27" tvg-name="OBN" tvg-logo="images/obn.png" group-title="03. BOSANSKI",OBN - OBN
+http://strimer1.iptv-max.com:80/live?channelId=27&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="847" tvg-name="OBN." tvg-logo="/noicon.png" group-title="03. BOSANSKI",OBN. - OBN.
+http://strimer3.iptv-max.com:80/live?channelId=847&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="73" tvg-name="FTV" tvg-logo="images/ftv.png" group-title="03. BOSANSKI",FTV - FTV
+http://strimer2.iptv-max.com:80/live?channelId=73&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="76" tvg-name="BN Televizija" tvg-logo="images/bntv.png" group-title="03. BOSANSKI",BN Televizija - BN Televizija
+http://strimer5.iptv-max.com:80/live?channelId=76&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="514" tvg-name="BN Televizija ." tvg-logo="images/bntv.png" group-title="03. BOSANSKI",BN Televizija . - BN Televizija .
+http://strimer6.iptv-max.com:80/live?channelId=514&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="75" tvg-name="Face TV HD" tvg-logo="images/face.png" group-title="03. BOSANSKI",Face TV HD - Face TV HD
+http://strimer2.iptv-max.com:80/live?channelId=75&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="78" tvg-name="Pink BH" tvg-logo="images/pinkbih.png" group-title="03. BOSANSKI",Pink BH - Pink BH
+http://strimer5.iptv-max.com:80/live?channelId=78&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="147" tvg-name="Hayat TV" tvg-logo="images/no.png" group-title="03. BOSANSKI",Hayat TV - Hayat TV
+http://strimer2.iptv-max.com:80/live?channelId=147&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="110" tvg-name="Hayat TV Plus" tvg-logo="images/na.png" group-title="03. BOSANSKI",Hayat TV Plus - Hayat TV Plus
+http://strimer2.iptv-max.com:80/live?channelId=110&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="534" tvg-name="TV 1 BIH" tvg-logo="images/tv1.png" group-title="03. BOSANSKI",TV 1 BIH - TV 1 BIH
+http://strimer5.iptv-max.com:80/live?channelId=534&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="74" tvg-name="Al Jazeera Balkans" tvg-logo="images/aljazeera.png" group-title="03. BOSANSKI",Al Jazeera Balkans - Al Jazeera Balkans
+http://strimer2.iptv-max.com:80/live?channelId=74&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="403" tvg-name="Alternativna TV" tvg-logo="images/noicon.png" group-title="03. BOSANSKI",Alternativna TV - Alternativna TV
+http://strimer2.iptv-max.com:80/live?channelId=403&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="101" tvg-name="Posavina TV" tvg-logo="images/posavinatvba.png" group-title="03. BOSANSKI",Posavina TV - Posavina TV
+http://strimer2.iptv-max.com:80/live?channelId=101&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="111" tvg-name="BHT 1 (Sports)" tvg-logo="images/bht1.png" group-title="03. BOSANSKI",BHT 1 (Sports) - BHT 1 (Sports)
+http://strimer7.iptv-max.com:80/live?channelId=111&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="112" tvg-name="NTV 101 Prijedor" tvg-logo="images/ntv.png" group-title="03. BOSANSKI",NTV 101 Prijedor - NTV 101 Prijedor
+http://strimer2.iptv-max.com:80/live?channelId=112&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="272" tvg-name="MTV Igman" tvg-logo="images/noicon.png" group-title="03. BOSANSKI",MTV Igman - MTV Igman
+http://strimer2.iptv-max.com:80/live?channelId=272&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="273" tvg-name="Sandzak TV" tvg-logo="images/noicon.png" group-title="03. BOSANSKI",Sandzak TV - Sandzak TV
+http://strimer1.iptv-max.com:80/live?channelId=273&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="393" tvg-name="Kakanj" tvg-logo="images/kakanj.png" group-title="03. BOSANSKI",Kakanj - Kakanj
+http://strimer6.iptv-max.com:80/live?channelId=393&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="464" tvg-name="Tv Sarajevo" tvg-logo="images/tvsarajevo.png" group-title="03. BOSANSKI",Tv Sarajevo - Tv Sarajevo
+http://strimer5.iptv-max.com:80/live?channelId=464&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="465" tvg-name="Rtv Zenica" tvg-logo="images/rtvzenica.png" group-title="03. BOSANSKI",Rtv Zenica - Rtv Zenica
+http://strimer6.iptv-max.com:80/live?channelId=465&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="466" tvg-name="RTV USK" tvg-logo="images/rtvusk.png" group-title="03. BOSANSKI",RTV USK - RTV USK
+http://nl.streamer.iptv-max.com:80/live?channelId=466&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="506" tvg-name="TV TK" tvg-logo="images/na.png" group-title="03. BOSANSKI",TV TK - Televizija Tuzla
+http://nl.streamer.iptv-max.com:80/live?channelId=506&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="77" tvg-name="TV A1 Sehara" tvg-logo="images/na.png" group-title="03. BOSANSKI",TV A1 Sehara - TV A1 Sehara
+http://nl.streamer.iptv-max.com:80/live?channelId=77&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="883" tvg-name="TK (m)" tvg-logo="images/noicon.png" group-title="03. BOSANSKI",TK (m) - TK (m)
+http://strimer8.iptv-max.com:80/live?channelId=883&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="49" tvg-name="MRT 1" tvg-logo="images/mkhd1.png" group-title="05. MAKEDONSKI",MRT 1 - MRT 1
+http://strimer1.iptv-max.com:80/live?channelId=49&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="47" tvg-name="Alfa TV" tvg-logo="images/alfamk.png" group-title="05. MAKEDONSKI",Alfa TV - Alfa TV
+http://strimer1.iptv-max.com:80/live?channelId=47&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="48" tvg-name="Kanal 5" tvg-logo="images/kanal5.png" group-title="05. MAKEDONSKI",Kanal 5 - Kanal 5
+http://strimer1.iptv-max.com:80/live?channelId=48&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="50" tvg-name="Sitel" tvg-logo="images/sitel.png" group-title="05. MAKEDONSKI",Sitel - Sitel
+http://strimer1.iptv-max.com:80/live?channelId=50&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="51" tvg-name="Telma" tvg-logo="images/telma.png" group-title="05. MAKEDONSKI",Telma - Telma
+http://strimer1.iptv-max.com:80/live?channelId=51&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="302" tvg-name="Sitel 3" tvg-logo="images/noicon.png" group-title="05. MAKEDONSKI",Sitel 3 - Sitel 3
+http://strimer6.iptv-max.com:80/live?channelId=302&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="495" tvg-name="MRT 3" tvg-logo="images/na.png" group-title="05. MAKEDONSKI",MRT 3 - MRT 3
+http://strimer1.iptv-max.com:80/live?channelId=495&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="413" tvg-name="O2" tvg-logo="images/o2.png" group-title="05. MAKEDONSKI",O2 - O2
+http://nl.streamer.iptv-max.com:80/live?channelId=413&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="487" tvg-name="24 Vesti" tvg-logo="images/na.png" group-title="05. MAKEDONSKI",24 Vesti - 24 Vesti
+http://strimer6.iptv-max.com:80/live?channelId=487&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="513" tvg-name="TV Sonce Skopje" tvg-logo="images/noicon.png" group-title="05. MAKEDONSKI",TV Sonce Skopje - TV Skopje
+http://strimer6.iptv-max.com:80/live?channelId=513&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="422" tvg-name="RTV CG 1" tvg-logo="images/noicon.png" group-title="06. CRNOGORSKI",RTV CG 1 - RTV CG 1
+http://strimer2.iptv-max.com:80/live?channelId=422&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="421" tvg-name="RTCG Sat" tvg-logo="images/rtcgsat.png" group-title="06. CRNOGORSKI",RTCG Sat - RTCG Sat
+http://strimer2.iptv-max.com:80/live?channelId=421&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="82" tvg-name="TV Vijesti" tvg-logo="images/tvv.png" group-title="06. CRNOGORSKI",TV Vijesti - TV Vijesti
+http://strimer2.iptv-max.com:80/live?channelId=82&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="79" tvg-name="Pink M" tvg-logo="images/pinkm.png" group-title="06. CRNOGORSKI",Pink M - Pink M
+http://strimer3.iptv-max.com:80/live?channelId=79&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="406" tvg-name="Atlas TV" tvg-logo="images/atlastv.png" group-title="06. CRNOGORSKI",Atlas TV - Atlas Tv
+http://strimer5.iptv-max.com:80/live?channelId=406&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="307" tvg-name="SLO TV1" tvg-logo="images/slotv1.png" group-title="04. SLOVENSKI",SLO TV1 - SLO TV1
+http://sc1.free-iptv.eu:80/live?channelId=307&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="308" tvg-name="SLO TV2" tvg-logo="images/slotv2.png" group-title="04. SLOVENSKI",SLO TV2 - SLO TV2
+http://sc1.free-iptv.eu:80/live?channelId=308&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="309" tvg-name="SLO TV3" tvg-logo="images/slotv3.png" group-title="04. SLOVENSKI",SLO TV3 - SLO TV3
+http://sc1.free-iptv.eu:80/live?channelId=309&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="282" tvg-name="Kanal A" tvg-logo="images/kanala.png" group-title="04. SLOVENSKI",Kanal A - Kanal A
+http://sc1.free-iptv.eu:80/live?channelId=282&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="269" tvg-name="POP TV" tvg-logo="images/poptv.png" group-title="04. SLOVENSKI",POP TV - POP TV
+http://sc1.free-iptv.eu:80/live?channelId=269&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="315" tvg-name="POP BRIO" tvg-logo="images/popbrio.png" group-title="04. SLOVENSKI",POP BRIO - POP BRIO
+http://sc1.free-iptv.eu:80/live?channelId=315&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="316" tvg-name="POP KINO" tvg-logo="images/popkino.png" group-title="04. SLOVENSKI",POP KINO - POP KINO
+http://sc1.free-iptv.eu:80/live?channelId=316&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="317" tvg-name="POP OTO" tvg-logo="images/popoto.png" group-title="04. SLOVENSKI",POP OTO - POP OTO
+http://sc1.free-iptv.eu:80/live?channelId=317&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="345" tvg-name="Sport TV1 SLO" tvg-logo="images/sporttv1slo.png" group-title="04. SLOVENSKI",Sport TV1 SLO - Sport TV1 SLO
+http://sc1.free-iptv.eu:80/live?channelId=345&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="346" tvg-name="Sport TV2 SLO" tvg-logo="images/sporttv2slo.png" group-title="04. SLOVENSKI",Sport TV2 SLO - Sport TV2 SLO
+http://sc1.free-iptv.eu:80/live?channelId=346&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="286" tvg-name="TV3 Medias" tvg-logo="images/tv3medias.png" group-title="04. SLOVENSKI",TV3 Medias - TV3 Medias
+http://sc1.free-iptv.eu:80/live?channelId=286&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="310" tvg-name="Planet TV" tvg-logo="images/noicon.png" group-title="04. SLOVENSKI",Planet TV - Planet TV
+http://sc1.free-iptv.eu:80/live?channelId=310&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="342" tvg-name="Golica TV" tvg-logo="images/golicatv.png" group-title="04. SLOVENSKI",Golica TV - Golica TV
+http://sc1.free-iptv.eu:80/live?channelId=342&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="343" tvg-name="TELE M" tvg-logo="images/telem.png" group-title="04. SLOVENSKI",TELE M - TELE M
+http://sc1.free-iptv.eu:80/live?channelId=343&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="480" tvg-name="Veseljak TV" tvg-logo="/noicon.png" group-title="04. SLOVENSKI",Veseljak TV - Veseljak TV
+http://sc1.free-iptv.eu:80/live?channelId=480&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="4" tvg-name="Arena Sport 1" tvg-logo="images/arenasport1.png" group-title="07. SPORTSKI",Arena Sport 1 - Arena Sport 1
+http://strimer7.iptv-max.com:80/live?channelId=4&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="5" tvg-name="Arena Sport 2" tvg-logo="images/arenasport2.png" group-title="07. SPORTSKI",Arena Sport 2 - Arena Sport 2
+http://strimer7.iptv-max.com:80/live?channelId=5&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="6" tvg-name="Arena Sport 3" tvg-logo="images/arenasport3.png" group-title="07. SPORTSKI",Arena Sport 3 - Arena Sport 3
+http://strimer7.iptv-max.com:80/live?channelId=6&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="7" tvg-name="Arena Sport 4" tvg-logo="images/arenasport4.png" group-title="07. SPORTSKI",Arena Sport 4 - Arena Sport 4
+http://strimer7.iptv-max.com:80/live?channelId=7&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="143" tvg-name="Arena Sport 5" tvg-logo="images/arena5.png" group-title="07. SPORTSKI",Arena Sport 5 - Arena Sport 5
+http://strimer7.iptv-max.com:80/live?channelId=143&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="583" tvg-name="Arena Sport HD 1 hr" tvg-logo="images/arenasport1hr.png" group-title="07. SPORTSKI",Arena Sport HD 1 hr - Arena Sport HD 1 hr
+http://strimer9.iptv-max.com:80/live?channelId=583&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="584" tvg-name="Arena Sport HD 2 hr" tvg-logo="images/arena2hrhd.png" group-title="07. SPORTSKI",Arena Sport HD 2 hr - Arena Sport HD 2 hr
+http://strimer9.iptv-max.com:80/live?channelId=584&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="585" tvg-name="Arena Sport HD 3 hr" tvg-logo="images/arena3hr.png" group-title="07. SPORTSKI",Arena Sport HD 3 hr - Arena Sport HD 3 hr
+http://strimer9.iptv-max.com:80/live?channelId=585&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="586" tvg-name="Arena Sport HD 4 hr" tvg-logo="images/arena4hr.png" group-title="07. SPORTSKI",Arena Sport HD 4 hr - Arena Sport HD 4 hr
+http://strimer9.iptv-max.com:80/live?channelId=586&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="31" tvg-name="Sport Klub 1 HD" tvg-logo="images/sportclub1.png" group-title="07. SPORTSKI",Sport Klub 1 HD - Sport Klub 1 HD
+http://strimer7.iptv-max.com:80/live?channelId=31&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="32" tvg-name="Sport Klub 2 HD" tvg-logo="images/sportclub2.png" group-title="07. SPORTSKI",Sport Klub 2 HD - Sport Klub 2 HD
+http://strimer7.iptv-max.com:80/live?channelId=32&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="33" tvg-name="Sport Klub 3 HD" tvg-logo="images/sportclub3.png" group-title="07. SPORTSKI",Sport Klub 3 HD - Sport Klub 3 HD
+http://strimer7.iptv-max.com:80/live?channelId=33&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="298" tvg-name="SK 1 SD" tvg-logo="images/sportclub1.png" group-title="07. SPORTSKI",SK 1 SD - SK 1 SD
+http://strimer1.iptv-max.com:80/live?channelId=298&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="299" tvg-name="SK 2 SD" tvg-logo="images/sportclub2.png" group-title="07. SPORTSKI",SK 2 SD - SK 2 SD
+http://strimer1.iptv-max.com:80/live?channelId=299&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="300" tvg-name="SK 3 SD" tvg-logo="images/sportclub3.png" group-title="07. SPORTSKI",SK 3 SD - SK 3 SD
+http://strimer1.iptv-max.com:80/live?channelId=300&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="104" tvg-name="Eurosport 1" tvg-logo="images/esp.png" group-title="07. SPORTSKI",Eurosport 1 - Eurosport 1
+http://strimer2.iptv-max.com:80/live?channelId=104&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="105" tvg-name="Eurosport 2" tvg-logo="images/esp2.png" group-title="07. SPORTSKI",Eurosport 2 - Eurosport 2
+http://strimer2.iptv-max.com:80/live?channelId=105&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="749" tvg-name="Eurosport 2 (d)" tvg-logo="images/esp2.png" group-title="07. SPORTSKI",Eurosport 2 (d) - Eurosport 2 (d)
+http://vestfalija.str2.qwerttv.ws:80/live?channelId=749&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="898" tvg-name="Sportska TV" tvg-logo="images/na.png" group-title="07. SPORTSKI",Sportska TV - Sportska TV
+http://strimer5.iptv-max.com:80/live?channelId=898&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="36" tvg-name="Arena Sport HD 5 hr" tvg-logo="images/arena5.png" group-title="07. SPORTSKI",Arena Sport HD 5 hr - Arena Sport HD 5 hr
+http://strimer9.iptv-max.com:80/live?channelId=36&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="211" tvg-name="Sky Bundesliga" tvg-logo="images/skybundesligahd.png" group-title="07. SPORTSKI",Sky Bundesliga - Sky Bundesliga
+http://strimer5.iptv-max.com:80/live?channelId=211&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="415" tvg-name="SKY BUNDESLIGA (DE)" tvg-logo="images/skybundesligahd" group-title="13. AUSTRIJSKI i NEMACKI",SKY BUNDESLIGA (DE) - SKY BUNDESLIGA (DE)
+http://strimer10.iptv-max.com:80/live?channelId=415&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="139" tvg-name="Sky Sport 1 DE" tvg-logo="images/skysport1.png" group-title="07. SPORTSKI",Sky Sport 1 DE - Sky Sport 1 DE
+http://strimer5.iptv-max.com:80/live?channelId=139&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="140" tvg-name="Sky Sport 2 DE" tvg-logo="images/skysport2.png" group-title="07. SPORTSKI",Sky Sport 2 DE - Sky Sport 2 DE
+http://strimer5.iptv-max.com:80/live?channelId=140&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="416" tvg-name="SKY Sport Austria" tvg-logo="images/na.png" group-title="07. SPORTSKI",SKY Sport Austria - SKY Sport Austria
+http://strimer9.iptv-max.com:80/live?channelId=416&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="189" tvg-name="FOX Sport 1 NL" tvg-logo="images/foxsport.png" group-title="07. SPORTSKI",FOX Sport 1 NL - FOX Sport 1 NL
+http://strimer9.iptv-max.com:80/live?channelId=189&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="54" tvg-name="FOX Sport 2 NL" tvg-logo="images/foxsport.png" group-title="07. SPORTSKI",FOX Sport 2 NL - FOX Sport 2 NL
+http://strimer9.iptv-max.com:80/live?channelId=54&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="55" tvg-name="FOX Sport 3 NL" tvg-logo="images/foxsport.png" group-title="07. SPORTSKI",FOX Sport 3 NL - FOX Sport 3 NL
+http://strimer9.iptv-max.com:80/live?channelId=55&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="56" tvg-name="FOX Sport 4 NL" tvg-logo="images/foxsport.png" group-title="07. SPORTSKI",FOX Sport 4 NL - FOX Sport 4 NL
+http://strimer9.iptv-max.com:80/live?channelId=56&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="190" tvg-name="FOX Sport 5 NL" tvg-logo="images/foxsport.png" group-title="07. SPORTSKI",FOX Sport 5 NL - POX Sport 5 NL
+http://strimer9.iptv-max.com:80/live?channelId=190&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="57" tvg-name="Sport1 Extra 1 NL" tvg-logo="images/sportextra1.png" group-title="07. SPORTSKI",Sport1 Extra 1 NL - Sport1 Extra 1 NL
+http://strimer9.iptv-max.com:80/live?channelId=57&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="58" tvg-name="Sport1 Extra 2 NL" tvg-logo="images/sportextra2.png" group-title="07. SPORTSKI",Sport1 Extra 2 NL - Sport1 Extra 2 NL
+http://strimer9.iptv-max.com:80/live?channelId=58&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="59" tvg-name="Sport1 Golf NL" tvg-logo="images/sport1golf.png" group-title="07. SPORTSKI",Sport1 Golf NL - Sport1 Golf NL
+http://strimer9.iptv-max.com:80/live?channelId=59&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="60" tvg-name="Sport1 Select NL" tvg-logo="images/sport1select.png" group-title="07. SPORTSKI",Sport1 Select NL - Sport1 Select NL
+http://strimer9.iptv-max.com:80/live?channelId=60&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="61" tvg-name="Sport1 Racing NL" tvg-logo="images/sport1tennis.png" group-title="07. SPORTSKI",Sport1 Racing NL - Sport1 Racing NL
+http://strimer9.iptv-max.com:80/live?channelId=61&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="62" tvg-name="Sport1 Voetbal NL" tvg-logo="images/spoer1v.png" group-title="07. SPORTSKI",Sport1 Voetbal NL - Sport1 Voetbal NL
+http://strimer9.iptv-max.com:80/live?channelId=62&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="192" tvg-name="beIN sport HD 2" tvg-logo="images/beinsporthd2.png" group-title="07. SPORTSKI",beIN sport HD 2 - beIN sport HD 2
+http://strimer5.iptv-max.com:80/live?channelId=192&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="377" tvg-name="beIN sport HD 1" tvg-logo="images/beinsporthd1.png" group-title="07. SPORTSKI",beIN sport HD 1 - beIN sport HD 1
+http://strimer5.iptv-max.com:80/live?channelId=377&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="246" tvg-name="LIG TV HD" tvg-logo="images/ligtv.png" group-title="07. SPORTSKI",LIG TV HD - LIG TV HD
+http://nl.streamer.iptv-max.com:80/live?channelId=246&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="471" tvg-name="LIG TV 2" tvg-logo="images/ligtv2.png" group-title="07. SPORTSKI",LIG TV 2 - LIG TV 2
+http://nl.streamer.iptv-max.com:80/live?channelId=471&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="425" tvg-name="Viasat SPORT" tvg-logo="images/viasatsport.png" group-title="07. SPORTSKI",Viasat SPORT - Viasat SPORT
+http://strimer6.iptv-max.com:80/live?channelId=425&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="790" tvg-name="FIGHT CLUB" tvg-logo="/noicon.png" group-title="TEST",FIGHT CLUB - FIGHT CLUB
+http://strimer9.iptv-max.com:80/live?channelId=790&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="489" tvg-name="CinePLUS 1" tvg-logo="images/cineplus1.png" group-title="08. FILMOVI I SERIJE",CinePLUS 1 - CinePLUS 1
+http://strimer2.iptv-max.com:80/live?channelId=489&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="494" tvg-name="CinePLUS 2" tvg-logo="images/cineplus2.png" group-title="08. FILMOVI I SERIJE",CinePLUS 2 - CinePLUS 2
+http://strimer2.iptv-max.com:80/live?channelId=494&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="376" tvg-name="CinePLUS SciFi" tvg-logo="images/scifi.png" group-title="08. FILMOVI I SERIJE",CinePLUS SciFi - CinePLUS SciFi
+http://strimer3.iptv-max.com:80/live?channelId=376&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="91" tvg-name="Cinestar Premiere 1" tvg-logo="images/cinestarpremiere.png" group-title="08. FILMOVI I SERIJE",Cinestar Premiere 1 - Cinestar Premiere 1
+http://strimer2.iptv-max.com:80/live?channelId=91&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="94" tvg-name="Cinestar Premiere 2" tvg-logo="images/cinestar2.png" group-title="08. FILMOVI I SERIJE",Cinestar Premiere 2 - Cinestar Premiere 2
+http://strimer2.iptv-max.com:80/live?channelId=94&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="85" tvg-name="HBO Adria" tvg-logo="images/hboadrija.png" group-title="08. FILMOVI I SERIJE",HBO Adria - HBO Adria
+http://strimer2.iptv-max.com:80/live?channelId=85&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="86" tvg-name="HBO Comedy" tvg-logo="images/hbocomedy.png" group-title="08. FILMOVI I SERIJE",HBO Comedy - HBO Comedy
+http://strimer2.iptv-max.com:80/live?channelId=86&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="80" tvg-name="Cinemax" tvg-logo="images/cinemax.png" group-title="08. FILMOVI I SERIJE",Cinemax - Cinemax
+http://strimer2.iptv-max.com:80/live?channelId=80&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="84" tvg-name="Cinemax 2" tvg-logo="images/cinemax2.png" group-title="08. FILMOVI I SERIJE",Cinemax 2 - Cinemax 2
+http://strimer2.iptv-max.com:80/live?channelId=84&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="23" tvg-name="AXN" tvg-logo="images/axn.png" group-title="08. FILMOVI I SERIJE",AXN - AXN
+http://strimer1.iptv-max.com:80/live?channelId=23&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="39" tvg-name="FOX" tvg-logo="images/fox.png" group-title="08. FILMOVI I SERIJE",FOX - FOX
+http://strimer1.iptv-max.com:80/live?channelId=39&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="96" tvg-name="FOX Life" tvg-logo="images/foxlife.png" group-title="08. FILMOVI I SERIJE",FOX Life - FOX Life
+http://strimer2.iptv-max.com:80/live?channelId=96&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="25" tvg-name="FOX Crime" tvg-logo="images/foxcrime.png" group-title="08. FILMOVI I SERIJE",FOX Crime - FOX Crime
+http://strimer1.iptv-max.com:80/live?channelId=25&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="154" tvg-name="CineStar TV" tvg-logo="images/cinestartv.png" group-title="08. FILMOVI I SERIJE",CineStar TV - 
+http://strimer1.iptv-max.com:80/live?channelId=154&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="11" tvg-name="TV 1000" tvg-logo="images/tv1000.png" group-title="08. FILMOVI I SERIJE",TV 1000 - TV 1000
+http://strimer1.iptv-max.com:80/live?channelId=11&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="179" tvg-name="SciFi" tvg-logo="images/syfi.png" group-title="08. FILMOVI I SERIJE",SciFi - SciFi
+http://strimer1.iptv-max.com:80/live?channelId=179&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="14" tvg-name="Animal Planet" tvg-logo="images/animal.png" group-title="09. DOKUMENTARNI",Animal Planet - Animal Planet
+http://strimer1.iptv-max.com:80/live?channelId=14&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="128" tvg-name="Discovery" tvg-logo="images/discovery.png" group-title="09. DOKUMENTARNI",Discovery - Discovery
+http://strimer1.iptv-max.com:80/live?channelId=128&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="131" tvg-name="National Geographic" tvg-logo="images/natgeographic.png" group-title="09. DOKUMENTARNI",National Geographic - National Geographic
+http://strimer1.iptv-max.com:80/live?channelId=131&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="129" tvg-name="History Channel HD" tvg-logo="images/historyHD.png" group-title="09. DOKUMENTARNI",History Channel HD - History Channel HD
+http://strimer2.iptv-max.com:80/live?channelId=129&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="13" tvg-name="24 Kitchen" tvg-logo="images/24.png" group-title="09. DOKUMENTARNI",24 Kitchen - 24 Kitchen
+http://strimer1.iptv-max.com:80/live?channelId=13&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="19" tvg-name="TLC" tvg-logo="images/tlc.png" group-title="09. DOKUMENTARNI",TLC - TLC
+http://strimer1.iptv-max.com:80/live?channelId=19&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="279" tvg-name="E! Entertainment TV" tvg-logo="images/entertainment.png" group-title="09. DOKUMENTARNI",E! Entertainment TV - E! Entertainment TV
+http://strimer1.iptv-max.com:80/live?channelId=279&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="268" tvg-name="CBS Reality" tvg-logo="images/cbsreality.png" group-title="09. DOKUMENTARNI",CBS Reality - CBS Reality
+http://strimer4.iptv-max.com:80/live?channelId=268&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="313" tvg-name="Travel" tvg-logo="images/travel.png" group-title="09. DOKUMENTARNI",Travel - Travel
+http://strimer1.iptv-max.com:80/live?channelId=313&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="15" tvg-name="Discovery ID" tvg-logo="images/id.png" group-title="09. DOKUMENTARNI",Discovery ID - Discovery ID
+http://strimer1.iptv-max.com:80/live?channelId=15&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="132" tvg-name="Crime Investigation Network" tvg-logo="images/crimeinvestigation.png" group-title="09. DOKUMENTARNI",Crime Investigation Network - Crime Investigation Network
+http://strimer2.iptv-max.com:80/live?channelId=132&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="130" tvg-name="NatGeo Wild" tvg-logo="images/natgeowild.png" group-title="09. DOKUMENTARNI",NatGeo Wild - NatGeo Wild
+http://strimer4.iptv-max.com:80/live?channelId=130&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="42" tvg-name="Viasat Nature" tvg-logo="images/viasatnature.png" group-title="09. DOKUMENTARNI",Viasat Nature - Viasat Nature
+http://strimer1.iptv-max.com:80/live?channelId=42&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="41" tvg-name="Viasat History" tvg-logo="images/viasathistory.png" group-title="09. DOKUMENTARNI",Viasat History - Viasat History
+http://strimer1.iptv-max.com:80/live?channelId=41&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="414" tvg-name="Lov i Ribolov" tvg-logo="images/loviribolov.png" group-title="09. DOKUMENTARNI",Lov i Ribolov - Lov i Ribolov
+http://strimer2.iptv-max.com:80/live?channelId=414&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="841" tvg-name="Viasat Explorer" tvg-logo="images/noicon.png" group-title="09. DOKUMENTARNI",Viasat Explorer - Viasat Explorer
+http://strimer2.iptv-max.com:80/live?channelId=841&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="81" tvg-name="Pink 2" tvg-logo="images/pink2.png" group-title="10. PINK MEDIA",Pink 2 - Pink 2
+http://strimer3.iptv-max.com:80/live?channelId=81&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="20" tvg-name="Pink 3" tvg-logo="images/pink3.png" group-title="10. PINK MEDIA",Pink 3 - Pink 3
+http://strimer3.iptv-max.com:80/live?channelId=20&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="9" tvg-name="Pink Film" tvg-logo="images/pinkfilm.png" group-title="10. PINK MEDIA",Pink Film - Pink Film
+http://strimer3.iptv-max.com:80/live?channelId=9&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="35" tvg-name="Pink Plus" tvg-logo="images/pinkplus.png" group-title="10. PINK MEDIA",Pink Plus - Pink Plus
+http://strimer3.iptv-max.com:80/live?channelId=35&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="121" tvg-name="Pink Reality" tvg-logo="images/pinkreality.png" group-title="10. PINK MEDIA",Pink Reality - Pink Reality
+http://strimer3.iptv-max.com:80/live?channelId=121&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="124" tvg-name="Pink Zabava" tvg-logo="images/pinkzabava.png" group-title="10. PINK MEDIA",Pink Zabava - Pink Zabava
+http://strimer3.iptv-max.com:80/live?channelId=124&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="87" tvg-name="Pink Premium" tvg-logo="images/pinkpremium.png" group-title="10. PINK MEDIA",Pink Premium - Pink Premium
+http://strimer3.iptv-max.com:80/live?channelId=87&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="491" tvg-name="Pink Movies" tvg-logo="images/pink.png" group-title="10. PINK MEDIA",Pink Movies - Pink Movies
+http://strimer5.iptv-max.com:80/live?channelId=491&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="28" tvg-name="Pink Comedy" tvg-logo="images/pinkcomedy.png" group-title="10. PINK MEDIA",Pink Comedy - Pink Comedy
+http://strimer3.iptv-max.com:80/live?channelId=28&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="21" tvg-name="Pink Family" tvg-logo="images/pinkkids.png" group-title="10. PINK MEDIA",Pink Family - Pink Family
+http://strimer3.iptv-max.com:80/live?channelId=21&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="379" tvg-name="Pink Action" tvg-logo="images/pink.png" group-title="10. PINK MEDIA",Pink Action - Pink Action
+http://strimer4.iptv-max.com:80/live?channelId=379&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="88" tvg-name="Pink Western" tvg-logo="images/pinkwestern.png" group-title="10. PINK MEDIA",Pink Western - Pink Western
+http://strimer3.iptv-max.com:80/live?channelId=88&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="116" tvg-name="Pink Romance" tvg-logo="images/pinkmovies2.png" group-title="10. PINK MEDIA",Pink Romance - Pink romance
+http://strimer3.iptv-max.com:80/live?channelId=116&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="119" tvg-name="Pink Classic" tvg-logo="images/pinkclasik.png" group-title="10. PINK MEDIA",Pink Classic - Pink Classic
+http://strimer3.iptv-max.com:80/live?channelId=119&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="458" tvg-name="Pink Serije" tvg-logo="images/noicon.png" group-title="10. PINK MEDIA",Pink Serije - Pink Serije
+http://strimer3.iptv-max.com:80/live?channelId=458&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="122" tvg-name="Pink Soap" tvg-logo="images/pinksoap.png" group-title="10. PINK MEDIA",Pink Soap - Pink Soap
+http://strimer3.iptv-max.com:80/live?channelId=122&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="114" tvg-name="Pink THRILLER" tvg-logo="images/pinkaction2.png" group-title="10. PINK MEDIA",Pink THRILLER - Pink THRILLER
+http://strimer3.iptv-max.com:80/live?channelId=114&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="118" tvg-name="Pink Horror" tvg-logo="images/pinkhoror.png" group-title="10. PINK MEDIA",Pink Horror - Pink Horror
+http://strimer3.iptv-max.com:80/live?channelId=118&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="492" tvg-name="Pink Sci-Fi Fanatasy" tvg-logo="images/pink.png" group-title="10. PINK MEDIA",Pink Sci-Fi Fanatasy - Pink Sci-Fi Fanatasy
+http://strimer5.iptv-max.com:80/live?channelId=492&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="115" tvg-name="Pink crime  mistery" tvg-logo="images/pinkaction3.png" group-title="10. PINK MEDIA",Pink crime  mistery - Pink crime  mistery
+http://strimer7.iptv-max.com:80/live?channelId=115&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="459" tvg-name="Pink World Cinema" tvg-logo="images/noicon.png" group-title="10. PINK MEDIA",Pink World Cinema - Pink World Cinema
+http://strimer3.iptv-max.com:80/live?channelId=459&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="93" tvg-name="Pink Folk 1" tvg-logo="images/pinkfolk1.png" group-title="10. PINK MEDIA",Pink Folk 1 - Pink Folk 1
+http://strimer3.iptv-max.com:80/live?channelId=93&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="95" tvg-name="Pink Folk 2" tvg-logo="images/pinkfolk2.png" group-title="10. PINK MEDIA",Pink Folk 2 - Pink folk 2
+http://strimer3.iptv-max.com:80/live?channelId=95&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="92" tvg-name="Pink Music" tvg-logo="images/pinkmusic.png" group-title="10. PINK MEDIA",Pink Music - Pink Music
+http://strimer3.iptv-max.com:80/live?channelId=92&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="150" tvg-name="Pink Music 2" tvg-logo="images/pinkmusic.png" group-title="10. PINK MEDIA",Pink Music 2 - Pink Music 2
+http://strimer3.iptv-max.com:80/live?channelId=150&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="151" tvg-name="Pink Music 3" tvg-logo="images/pinkmusic.png" group-title="10. PINK MEDIA",Pink Music 3 - Pink Music 3
+http://strimer3.iptv-max.com:80/live?channelId=151&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="98" tvg-name="Pink Rock n Roll" tvg-logo="images/pinkrockenrol.png" group-title="10. PINK MEDIA",Pink Rock n Roll - Pink Rock n Roll
+http://strimer3.iptv-max.com:80/live?channelId=98&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="152" tvg-name="Pink hits" tvg-logo="images/pinkmusic.png" group-title="10. PINK MEDIA",Pink hits - Pink hits
+http://strimer3.iptv-max.com:80/live?channelId=152&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="117" tvg-name="Pink hits 2" tvg-logo="images/pinkmovies3.png" group-title="10. PINK MEDIA",Pink hits 2 - Pink hits 2
+http://strimer3.iptv-max.com:80/live?channelId=117&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="153" tvg-name="Pink parada" tvg-logo="images/pinkmusic.png" group-title="10. PINK MEDIA",Pink parada - Pink parada
+http://strimer3.iptv-max.com:80/live?channelId=153&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="123" tvg-name="Pink World" tvg-logo="images/pinkworld.png" group-title="10. PINK MEDIA",Pink World - Pink World
+http://nl.streamer.iptv-max.com:80/live?channelId=123&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="125" tvg-name="Pink Style" tvg-logo="images/pinkstyle.png" group-title="10. PINK MEDIA",Pink Style - Pink Style
+http://strimer3.iptv-max.com:80/live?channelId=125&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="127" tvg-name="Pink Fashion" tvg-logo="images/pinkfashion.png" group-title="10. PINK MEDIA",Pink Fashion - Pink Fashion
+http://strimer3.iptv-max.com:80/live?channelId=127&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="461" tvg-name="Pink Kuvar" tvg-logo="images/noicon.png" group-title="10. PINK MEDIA",Pink Kuvar - Pink Kuvar
+http://strimer3.iptv-max.com:80/live?channelId=461&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="126" tvg-name="Pink fight network" tvg-logo="images/pinknostalgija.png" group-title="10. PINK MEDIA",Pink fight network - Pink fight network
+http://strimer3.iptv-max.com:80/live?channelId=126&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="22" tvg-name="Pink Pedia" tvg-logo="images/pinkpedia.png" group-title="10. PINK MEDIA",Pink Pedia - Pink Pedia
+http://strimer3.iptv-max.com:80/live?channelId=22&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="34" tvg-name="Pink Extra" tvg-logo="images/pinkextra.png" group-title="10. PINK MEDIA",Pink Extra - Pink Extra
+http://strimer3.iptv-max.com:80/live?channelId=34&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="460" tvg-name="Pink Show" tvg-logo="images/noicon.png" group-title="10. PINK MEDIA",Pink Show - Pink Show
+http://strimer3.iptv-max.com:80/live?channelId=460&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="462" tvg-name="Pink Super Kids" tvg-logo="images/noicon.png" group-title="10. PINK MEDIA",Pink Super Kids - Pink Super Kids
+http://strimer3.iptv-max.com:80/live?channelId=462&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="97" tvg-name="Balkanika" tvg-logo="images/balkanika.png" group-title="11. MUZICKI",Balkanika - Balkanika
+http://strimer2.iptv-max.com:80/live?channelId=97&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="89" tvg-name="Grand TV" tvg-logo="images/grandtv.png" group-title="11. MUZICKI",Grand TV - Grand TV
+http://strimer2.iptv-max.com:80/live?channelId=89&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="102" tvg-name="DM Sat" tvg-logo="images/dmsat.png" group-title="11. MUZICKI",DM Sat - DM Sat
+http://strimer2.iptv-max.com:80/live?channelId=102&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="142" tvg-name="BN Music" tvg-logo="images/bnmus.png" group-title="11. MUZICKI",BN Music - BN Music
+http://strimer1.iptv-max.com:80/live?channelId=142&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="339" tvg-name="Duga TV" tvg-logo="images/dugatv.png" group-title="11. MUZICKI",Duga TV - Duga Tv
+http://strimer1.iptv-max.com:80/live?channelId=339&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="185" tvg-name="KCN 2" tvg-logo="images/kcn2.png" group-title="11. MUZICKI",KCN 2 - Kopernikus 2
+http://strimer5.iptv-max.com:80/live?channelId=185&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="18" tvg-name="OTV Valentino" tvg-logo="images/valentino.png" group-title="11. MUZICKI",OTV Valentino - OTV Valentino
+http://strimer1.iptv-max.com:80/live?channelId=18&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="70" tvg-name="CMC" tvg-logo="images/cmc.png" group-title="11. MUZICKI",CMC - CMC
+http://strimer2.iptv-max.com:80/live?channelId=70&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="100" tvg-name="Jugoton" tvg-logo="images/jugoton.png" group-title="11. MUZICKI",Jugoton - Jugoton
+http://strimer2.iptv-max.com:80/live?channelId=100&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="401" tvg-name="VH 1" tvg-logo="images/vh1.png" group-title="11. MUZICKI",VH 1 - VH 1
+http://strimer1.iptv-max.com:80/live?channelId=401&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="483" tvg-name="VH 1 Clasic" tvg-logo="images/vh1clasic.png" group-title="11. MUZICKI",VH 1 Clasic - VH 1 Clasic
+http://strimer3.iptv-max.com:80/live?channelId=483&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="402" tvg-name="MTV Hits" tvg-logo="images/mtvhits.png" group-title="11. MUZICKI",MTV Hits - MTV Hits
+http://strimer1.iptv-max.com:80/live?channelId=402&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="90" tvg-name="Hayat Foolk" tvg-logo="images/no.png" group-title="11. MUZICKI",Hayat Foolk - Hayat Folk
+http://strimer2.iptv-max.com:80/live?channelId=90&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="38" tvg-name="A 1 HD" tvg-logo="images/noicon.png" group-title="11. MUZICKI",A 1 HD - A 1 HD
+http://strimer1.iptv-max.com:80/live?channelId=38&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="144" tvg-name="Kanal 6 HD" tvg-logo="images/kanal6.png" group-title="11. MUZICKI",Kanal 6 HD - 
+http://strimer1.iptv-max.com:80/live?channelId=144&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="378" tvg-name="TV Banovina" tvg-logo="images/na.png" group-title="11. MUZICKI",TV Banovina - TV Banovina
+http://nl.streamer.iptv-max.com:80/live?channelId=378&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="382" tvg-name="Yu planet radio" tvg-logo="images/noicon.png" group-title="11. MUZICKI",Yu planet radio - Yu planet radio
+http://strimer5.iptv-max.com:80/live?channelId=382&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="553" tvg-name="Sutel Television" tvg-logo="images/suteltelevision.png" group-title="11. MUZICKI",Sutel Television - Sutel Television
+http://strimer8.iptv-max.com:80/live?channelId=553&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="456" tvg-name="TV Glas Drine" tvg-logo="images/na.pong" group-title="11. MUZICKI",TV Glas Drine - TV Glas Drine
+http://nl.streamer.iptv-max.com:80/live?channelId=456&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="515" tvg-name="Izvorna TV" tvg-logo="imahes/na.png" group-title="11. MUZICKI",Izvorna TV - Izvorna TV
+http://strimer6.iptv-max.com:80/live?channelId=515&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="493" tvg-name="KidsPLUS" tvg-logo="images/logo.png" group-title="12. DJECJI",KidsPLUS - KidsPLUS
+http://nl.streamer.iptv-max.com:80/live?channelId=493&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="71" tvg-name="RTL Kockica" tvg-logo="images/rtlkockica.png" group-title="12. DJECJI",RTL Kockica - RTL Kockica
+http://strimer2.iptv-max.com:80/live?channelId=71&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="106" tvg-name="Hayatovci" tvg-logo="images/hayatovci.png" group-title="12. DJECJI",Hayatovci - Hayatovci
+http://strimer2.iptv-max.com:80/live?channelId=106&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="405" tvg-name="Cartoon Network" tvg-logo="images/cartoonnetwork.png" group-title="12. DJECJI",Cartoon Network - Cartoon Network
+http://strimer4.iptv-max.com:80/live?channelId=405&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="180" tvg-name="Boomerang" tvg-logo="images/boom.png" group-title="12. DJECJI",Boomerang - Boomerang
+http://strimer1.iptv-max.com:80/live?channelId=180&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="280" tvg-name="Nickelodeon europe" tvg-logo="images/nickelodeon.png" group-title="12. DJECJI",Nickelodeon europe - Nickelodeon europe
+http://strimer1.iptv-max.com:80/live?channelId=280&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="484" tvg-name="Disney" tvg-logo="images/disney.png" group-title="12. DJECJI",Disney - Disney
+http://strimer6.iptv-max.com:80/live?channelId=484&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="108" tvg-name="Minimax" tvg-logo="images/mini.png" group-title="12. DJECJI",Minimax - Minimax
+http://strimer2.iptv-max.com:80/live?channelId=108&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="158" tvg-name="ORF EINS" tvg-logo="images/orfeins.png" group-title="13. AUSTRIJSKI i NEMACKI",ORF EINS - ORF EINS
+http://strimer6.iptv-max.com:80/live?channelId=158&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="159" tvg-name="ORF2" tvg-logo="images/orf2.png" group-title="13. AUSTRIJSKI i NEMACKI",ORF2 - ORF2
+http://strimer6.iptv-max.com:80/live?channelId=159&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="160" tvg-name="ORF III" tvg-logo="images/orfiii.png" group-title="13. AUSTRIJSKI i NEMACKI",ORF III - ORF III
+http://strimer6.iptv-max.com:80/live?channelId=160&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="161" tvg-name="ORF Sport" tvg-logo="images/orfsportplus.png" group-title="13. AUSTRIJSKI i NEMACKI",ORF Sport - ORF Sport
+http://strimer6.iptv-max.com:80/live?channelId=161&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="163" tvg-name="ATV" tvg-logo="images/atv.png" group-title="13. AUSTRIJSKI i NEMACKI",ATV - ATV
+http://strimer6.iptv-max.com:80/live?channelId=163&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="165" tvg-name="Das Erste" tvg-logo="images/daserste.png" group-title="13. AUSTRIJSKI i NEMACKI",Das Erste - Das Erste
+http://strimer6.iptv-max.com:80/live?channelId=165&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="174" tvg-name="ZDF" tvg-logo="images/zdf.png" group-title="13. AUSTRIJSKI i NEMACKI",ZDF - ZDF
+http://strimer6.iptv-max.com:80/live?channelId=174&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="171" tvg-name="RTL DE" tvg-logo="images/rtlde.png" group-title="13. AUSTRIJSKI i NEMACKI",RTL DE - RTL DE
+http://strimer6.iptv-max.com:80/live?channelId=171&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="170" tvg-name="RTL 2 DE" tvg-logo="images/rtl2de.png" group-title="13. AUSTRIJSKI i NEMACKI",RTL 2 DE - RTL 2 DE
+http://strimer6.iptv-max.com:80/live?channelId=170&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="173" tvg-name="Sat 1" tvg-logo="images/sat1.png" group-title="13. AUSTRIJSKI i NEMACKI",Sat 1 - Sat 1
+http://strimer6.iptv-max.com:80/live?channelId=173&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="175" tvg-name="Pro 7" tvg-logo="images/pro7.png" group-title="13. AUSTRIJSKI i NEMACKI",Pro 7 - Pro 7
+http://strimer6.iptv-max.com:80/live?channelId=175&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="176" tvg-name="VOX" tvg-logo="images/vox.png" group-title="13. AUSTRIJSKI i NEMACKI",VOX - VOX
+http://strimer6.iptv-max.com:80/live?channelId=176&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="168" tvg-name="N24" tvg-logo="images/n24.png" group-title="13. AUSTRIJSKI i NEMACKI",N24 - N24
+http://strimer6.iptv-max.com:80/live?channelId=168&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="167" tvg-name="DMAX" tvg-logo="images/dmax.png" group-title="13. AUSTRIJSKI i NEMACKI",DMAX - DMAX
+http://strimer6.iptv-max.com:80/live?channelId=167&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="155" tvg-name="NTV" tvg-logo="images/ntv.png" group-title="13. AUSTRIJSKI i NEMACKI",NTV - NTV
+http://strimer6.iptv-max.com:80/live?channelId=155&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="172" tvg-name="Kabel 1" tvg-logo="images/kabel1.png" group-title="13. AUSTRIJSKI i NEMACKI",Kabel 1 - Kabel 1
+http://strimer6.iptv-max.com:80/live?channelId=172&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="156" tvg-name="3 Sat" tvg-logo="images/3sat.png" group-title="13. AUSTRIJSKI i NEMACKI",3 Sat - 3 Sat
+http://strimer6.iptv-max.com:80/live?channelId=156&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="166" tvg-name="Arte" tvg-logo="images/arte.png" group-title="13. AUSTRIJSKI i NEMACKI",Arte - Arte
+http://strimer6.iptv-max.com:80/live?channelId=166&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="157" tvg-name="Super RTL" tvg-logo="images/superrtl.png" group-title="13. AUSTRIJSKI i NEMACKI",Super RTL - Super RTL
+http://strimer6.iptv-max.com:80/live?channelId=157&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="177" tvg-name="KiKa" tvg-logo="images/kika.png" group-title="13. AUSTRIJSKI i NEMACKI",KiKa - KiKa
+http://strimer6.iptv-max.com:80/live?channelId=177&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="169" tvg-name="Nickelodeon" tvg-logo="images/nickelodeon.png" group-title="13. AUSTRIJSKI i NEMACKI",Nickelodeon - Nickelodeon
+http://strimer6.iptv-max.com:80/live?channelId=169&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="827" tvg-name="Film Select Info Kanal  (DE)" tvg-logo="images/filmselecthd(de).png" group-title="TEST",Film Select Info Kanal  (DE) - Film Select News (DE)
+http://nl.streamer.iptv-max.com:80/live?channelId=827&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="828" tvg-name="FILM Select 1 (DE)" tvg-logo="images/filmselecthd(de).png" group-title="TEST",FILM Select 1 (DE) - FILM SELECT 1 (DE)
+http://nl.streamer.iptv-max.com:80/live?channelId=828&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="829" tvg-name="FILM Select 2 (DE)" tvg-logo="images/filmselecthd(de).png" group-title="TEST",FILM Select 2 (DE) - FILM SELECT 2 (DE)
+http://strimer10.iptv-max.com:80/live?channelId=829&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="830" tvg-name="FILM Select 3 (DE)" tvg-logo="images/filmselecthd(de).png" group-title="TEST",FILM Select 3 (DE) - FILM SELECT 3 (DE)
+http://strimer6.iptv-max.com:80/live?channelId=830&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="831" tvg-name="Film Select 4 (DE)" tvg-logo="images/filmselecthd(de).png" group-title="TEST",Film Select 4 (DE) - Film Select 4 (DE)
+http://strimer6.iptv-max.com:80/live?channelId=831&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="832" tvg-name="Film Select 5 (DE)" tvg-logo="images/filmselecthd(de).png" group-title="TEST",Film Select 5 (DE) - Film Select 5 (DE)
+http://nl.streamer.iptv-max.com:80/live?channelId=832&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="833" tvg-name="Film Select 6 (DE)" tvg-logo="images/filmselecthd(de).png" group-title="TEST",Film Select 6 (DE) - Film Select 6 (DE)
+http://strimer6.iptv-max.com:80/live?channelId=833&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="834" tvg-name="Film Select 7 (DE)" tvg-logo="images/filmselecthd(de).png" group-title="TEST",Film Select 7 (DE) - Film Select 7 (DE)
+http://strimer10.iptv-max.com:80/live?channelId=834&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="835" tvg-name="Film Select 8 (DE)" tvg-logo="images/filmselecthd(de).png" group-title="TEST",Film Select 8 (DE) - Film Select 8 (DE)
+http://strimer2.iptv-max.com:80/live?channelId=835&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="836" tvg-name="Film Select 9 (DE)" tvg-logo="images/filmselecthd(de).png" group-title="TEST",Film Select 9 (DE) - Film Select 9 (DE)
+http://strimer2.iptv-max.com:80/live?channelId=836&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="837" tvg-name="Film Select 10 (DE)" tvg-logo="images/filmselecthd(de).png" group-title="TEST",Film Select 10 (DE) - Film Select 10 (DE)
+http://strimer6.iptv-max.com:80/live?channelId=837&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="360" tvg-name="Sky Comedy DE" tvg-logo="images/noicon.png" group-title="TEST",Sky Comedy DE - Sky Comedy DE
+http://nl.streamer.iptv-max.com:80/live?channelId=360&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="361" tvg-name="Sky Emotions DE" tvg-logo="images/noicon.png" group-title="TEST",Sky Emotions DE - Sky Emotions DE
+http://nl.streamer.iptv-max.com:80/live?channelId=361&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="362" tvg-name="Sky Nostalgie DE" tvg-logo="images/noicon.png" group-title="TEST",Sky Nostalgie DE - Sky Nostalgie DE
+http://nl.streamer.iptv-max.com:80/live?channelId=362&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="358" tvg-name="Sky Cinema 24 DE" tvg-logo="images/noicon.png" group-title="TEST",Sky Cinema 24 DE - Sky Cinema 24 DE
+http://nl.streamer.iptv-max.com:80/live?channelId=358&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="359" tvg-name="Sky HITS DE" tvg-logo="images/noicon.png" group-title="TEST",Sky HITS DE - Sky HITS DE
+http://nl.streamer.iptv-max.com:80/live?channelId=359&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="954" tvg-name="RTL Passion (DE)" tvg-logo="/noicon.png" group-title="13. AUSTRIJSKI i NEMACKI",RTL Passion (DE) - RTL Passion Deutsche
+http://strimer6.iptv-max.com:80/live?channelId=954&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="953" tvg-name="SKY HITS (DE)" tvg-logo="images/noicon.png" group-title="13. AUSTRIJSKI i NEMACKI",SKY HITS (DE) - SKY Hits Deutsche
+http://strimer10.iptv-max.com:80/live?channelId=953&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="952" tvg-name="NATGEO (DE)" tvg-logo="images/natgeographic.png" group-title="13. AUSTRIJSKI i NEMACKI",NATGEO (DE) - national geografic
+http://strimer6.iptv-max.com:80/live?channelId=952&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="956" tvg-name="SKY SPORT 1 (DE)" tvg-logo="images/skysport1.png" group-title="13. AUSTRIJSKI i NEMACKI",SKY SPORT 1 (DE) - SKY SPORT 1 Deutsche
+http://strimer10.iptv-max.com:80/live?channelId=956&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="955" tvg-name="SKY SPORT 2 (DE)" tvg-logo="images/skysport2.png" group-title="13. AUSTRIJSKI i NEMACKI",SKY SPORT 2 (DE) - SKY SPORT 2 (DE)
+http://strimer4.iptv-max.com:80/live?channelId=955&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="318" tvg-name="Disney Channel DE" tvg-logo="images/noicon.png" group-title="13. AUSTRIJSKI i NEMACKI",Disney Channel DE - Disney Channel DE
+http://strimer6.iptv-max.com:80/live?channelId=318&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="338" tvg-name="Discovery DE" tvg-logo="images/na.png" group-title="TEST",Discovery DE - Discovery DE
+http://nl.streamer.iptv-max.com:80/live?channelId=338&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="367" tvg-name="National Geo DE" tvg-logo="images/noicon.png" group-title="TEST",National Geo DE - National Geo DE
+http://strimer5.iptv-max.com:80/live?channelId=367&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="473" tvg-name="Film Star HD (DE)" tvg-logo="images/filmstarhd(de).png" group-title="TEST",Film Star HD (DE) - Film Star HD (DE)
+http://strimer10.iptv-max.com:80/live?channelId=473&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="474" tvg-name="FILM ACTION (DE)" tvg-logo="images/filmselecthd(de).png" group-title="TEST",FILM ACTION (DE) - FILM ACTION (DE)
+http://nl.streamer.iptv-max.com:80/live?channelId=474&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="475" tvg-name="Film Hits HD (DE)" tvg-logo="images/filmhitshd(de).png" group-title="TEST",Film Hits HD (DE) - Film Hits HD (DE)
+http://strimer5.iptv-max.com:80/live?channelId=475&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="476" tvg-name="Film Comedy HD (DE)" tvg-logo="images/filmcomedyhd(de).png" group-title="TEST",Film Comedy HD (DE) - Film Comedy HD (DE)
+http://strimer10.iptv-max.com:80/live?channelId=476&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="477" tvg-name="Film Cinema  (DE)" tvg-logo="images/filmcinemafullhd(de).png" group-title="TEST",Film Cinema  (DE) - Film Cinema  (DE)
+http://strimer10.iptv-max.com:80/live?channelId=477&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="478" tvg-name="FOX  (DE)" tvg-logo="images/fox.png" group-title="TEST",FOX  (DE) - FOX  (DE)
+http://strimer5.iptv-max.com:80/live?channelId=478&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="392" tvg-name="TVR 1" tvg-logo="images/noicon.png" group-title="15. ROMANIA",TVR 1 - TVR 1
+http://nl.streamer.iptv-max.com:80/live?channelId=392&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="394" tvg-name="TVR 2" tvg-logo="images/noicon.png" group-title="15. ROMANIA",TVR 2 - TVR 2
+http://nl.streamer.iptv-max.com:80/live?channelId=394&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="262" tvg-name="Antena 1" tvg-logo="images/antena1.png" group-title="15. ROMANIA",Antena 1 - Antena 1
+http://nl.streamer.iptv-max.com:80/live?channelId=262&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="259" tvg-name="National TV" tvg-logo="images/national.png" group-title="15. ROMANIA",National TV - National TV
+http://nl.streamer.iptv-max.com:80/live?channelId=259&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="263" tvg-name="Kanal D" tvg-logo="images/kanald.png" group-title="15. ROMANIA",Kanal D - Kanal D
+http://nl.streamer.iptv-max.com:80/live?channelId=263&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="264" tvg-name="Favorit TV" tvg-logo="images/favorit.png" group-title="15. ROMANIA",Favorit TV - Favorit TV
+http://nl.streamer.iptv-max.com:80/live?channelId=264&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="396" tvg-name="PRO TV" tvg-logo="images/noicon.png" group-title="15. ROMANIA",PRO TV - PRO TV
+http://nl.streamer.iptv-max.com:80/live?channelId=396&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="395" tvg-name="Taraf TV" tvg-logo="images/noicon.png" group-title="15. ROMANIA",Taraf TV - Taraf TV
+http://nl.streamer.iptv-max.com:80/live?channelId=395&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="397" tvg-name="Acasa TV" tvg-logo="images/noicon.png" group-title="15. ROMANIA",Acasa TV - Acasa TV
+http://nl.streamer.iptv-max.com:80/live?channelId=397&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="323" tvg-name="PlanetaTV" tvg-logo="images/na.png" group-title="11. MUZICKI",PlanetaTV - PlanetaTV
+http://strimer10.iptv-max.com:80/live?channelId=323&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="518" tvg-name="TV2 HU" tvg-logo="/noicon.png" group-title="16. MADJARSKI",TV2 HU - TV2 HU
+http://sc1.free-iptv.eu:80/live?channelId=518&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="520" tvg-name="STORY5 HU" tvg-logo="/noicon.png" group-title="16. MADJARSKI",STORY5 HU - STORY5 HU
+http://sc1.free-iptv.eu:80/live?channelId=520&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="521" tvg-name="RTL Klub HU" tvg-logo="/noicon.png" group-title="16. MADJARSKI",RTL Klub HU - RTL Klub HU
+http://sc1.free-iptv.eu:80/live?channelId=521&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="522" tvg-name="M1 HU" tvg-logo="/noicon.png" group-title="16. MADJARSKI",M1 HU - M1 HU
+http://sc1.free-iptv.eu:80/live?channelId=522&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="523" tvg-name="M2 HU" tvg-logo="/noicon.png" group-title="16. MADJARSKI",M2 HU - M2 HU
+http://sc1.free-iptv.eu:80/live?channelId=523&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="899" tvg-name="Hir TV HU" tvg-logo="/noicon.png" group-title="16. MADJARSKI",Hir TV HU - Hir TV HU
+http://sc1.free-iptv.eu:80/live?channelId=899&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="900" tvg-name="AMC HU" tvg-logo="/noicon.png" group-title="16. MADJARSKI",AMC HU - AMC HU
+http://sc1.free-iptv.eu:80/live?channelId=900&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="555" tvg-name="NPO1 NL" tvg-logo="images/noicon.png" group-title="14. HOLANDSKI",NPO1 NL - NPO1 NL
+http://strimer9.iptv-max.com:80/live?channelId=555&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="556" tvg-name="NPO2 NL" tvg-logo="images/noicon.png" group-title="14. HOLANDSKI",NPO2 NL - NPO2 NL
+http://strimer9.iptv-max.com:80/live?channelId=556&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="557" tvg-name="NPO3 NL" tvg-logo="images/noicon.png" group-title="14. HOLANDSKI",NPO3 NL - NPO3 NL
+http://strimer9.iptv-max.com:80/live?channelId=557&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="600" tvg-name="RTL4 NL" tvg-logo="images/noicon.png" group-title="14. HOLANDSKI",RTL4 NL - RTL4 NL
+http://strimer9.iptv-max.com:80/live?channelId=600&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="599" tvg-name="RTL5 NL" tvg-logo="images/noicon.png" group-title="14. HOLANDSKI",RTL5 NL - RTL5 NL
+http://strimer9.iptv-max.com:80/live?channelId=599&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="594" tvg-name="SBS6 NL" tvg-logo="images/noicon.png" group-title="14. HOLANDSKI",SBS6 NL - SBS6 NL
+http://strimer9.iptv-max.com:80/live?channelId=594&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="916" tvg-name="RTL7 NL" tvg-logo="images/noicon.png" group-title="14. HOLANDSKI",RTL7 NL - RTL7 NL
+http://strimer9.iptv-max.com:80/live?channelId=916&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="918" tvg-name="Film1 Premiere NL" tvg-logo="images/noicon.png" group-title="14. HOLANDSKI",Film1 Premiere NL - Film1 Premiere NL
+http://strimer9.iptv-max.com:80/live?channelId=918&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="919" tvg-name="Film1 Action NL" tvg-logo="images/noicon.png" group-title="14. HOLANDSKI",Film1 Action NL - Film1 Action NL
+http://strimer9.iptv-max.com:80/live?channelId=919&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="920" tvg-name="Film1 Comedy NL" tvg-logo="images/noicon.png" group-title="14. HOLANDSKI",Film1 Comedy NL - Film1 Comedy NL
+http://strimer9.iptv-max.com:80/live?channelId=920&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="921" tvg-name="Film1 Spotlight NL" tvg-logo="images/noicon.png" group-title="14. HOLANDSKI",Film1 Spotlight NL - Film1 Spotlight NL
+http://strimer9.iptv-max.com:80/live?channelId=921&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="922" tvg-name="Net5 NL" tvg-logo="images/noicon.png" group-title="14. HOLANDSKI",Net5 NL - Net5 NL
+http://strimer8.iptv-max.com:80/live?channelId=922&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="923" tvg-name="HBO1 NL" tvg-logo="images/noicon.png" group-title="14. HOLANDSKI",HBO1 NL - HBO1 NL
+http://strimer9.iptv-max.com:80/live?channelId=923&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="924" tvg-name="HBO2 NL" tvg-logo="images/noicon.png" group-title="14. HOLANDSKI",HBO2 NL - HBO2 NL
+http://strimer9.iptv-max.com:80/live?channelId=924&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="925" tvg-name="HBO3 NL" tvg-logo="images/noicon.png" group-title="14. HOLANDSKI",HBO3 NL - HBO3 NL
+http://strimer9.iptv-max.com:80/live?channelId=925&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="927" tvg-name="Ziggo Sport" tvg-logo="images/noicon.png" group-title="14. HOLANDSKI",Ziggo Sport - Ziggo Sport
+http://strimer8.iptv-max.com:80/live?channelId=927&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="542" tvg-name="SVT 1" tvg-logo="images/SVT1.png" group-title="17. SVEDSKI",SVT 1 - SVT 1
+http://strimer8.iptv-max.com:80/live?channelId=542&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="543" tvg-name="SVT 2" tvg-logo="/noicon.png" group-title="17. SVEDSKI",SVT 2 - SVT 2
+http://strimer8.iptv-max.com:80/live?channelId=543&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="544" tvg-name="TV3 Sverige" tvg-logo="/noicon.png" group-title="17. SVEDSKI",TV3 Sverige - TV3 Sverige
+http://strimer8.iptv-max.com:80/live?channelId=544&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="545" tvg-name="TV 4" tvg-logo="/noicon.png" group-title="17. SVEDSKI",TV 4 - TV 4
+http://strimer8.iptv-max.com:80/live?channelId=545&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="547" tvg-name="TV4 Komedi" tvg-logo="/noicon.png" group-title="17. SVEDSKI",TV4 Komedi - TV4 Komedi
+http://strimer8.iptv-max.com:80/live?channelId=547&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="548" tvg-name="TV8 Sverige" tvg-logo="/noicon.png" group-title="17. SVEDSKI",TV8 Sverige - TV8 Sverige
+http://strimer8.iptv-max.com:80/live?channelId=548&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="859" tvg-name="TV10" tvg-logo="/noicon.png" group-title="17. SVEDSKI",TV10 - TV10
+http://strimer8.iptv-max.com:80/live?channelId=859&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="860" tvg-name="Kanal 5 Sverige" tvg-logo="/noicon.png" group-title="17. SVEDSKI",Kanal 5 Sverige - Kanal 5 Sverige
+http://strimer8.iptv-max.com:80/live?channelId=860&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="861" tvg-name="TV3 Sport 1" tvg-logo="/noicon.png" group-title="17. SVEDSKI",TV3 Sport 1 - TV3 Sport 1
+http://strimer8.iptv-max.com:80/live?channelId=861&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="862" tvg-name="TV3 Sport 2" tvg-logo="/noicon.png" group-title="17. SVEDSKI",TV3 Sport 2 - TV3 Sport 2
+http://strimer8.iptv-max.com:80/live?channelId=862&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="863" tvg-name="C More Action" tvg-logo="/noicon.png" group-title="17. SVEDSKI",C More Action - C More Action
+http://strimer8.iptv-max.com:80/live?channelId=863&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="853" tvg-name="Film Komedi (s)" tvg-logo="images/noicon.png" group-title="20. ALBANIA",Film Komedi (s) - Film Komedi (s)
+http://strimer8.iptv-max.com:80/live?channelId=853&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="850" tvg-name="Film Aksion (s)" tvg-logo="images/noicon.png" group-title="20. ALBANIA",Film Aksion (s) - Film Aksion (s)
+http://strimer8.iptv-max.com:80/live?channelId=850&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="854" tvg-name="Film Thriller (s)" tvg-logo="images/filmthriller.png" group-title="20. ALBANIA",Film Thriller (s) - Film Thriller (s)
+http://strimer8.iptv-max.com:80/live?channelId=854&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="295" tvg-name="Tring Comedy (s)" tvg-logo="images/tringcomedy.png" group-title="20. ALBANIA",Tring Comedy (s) - Tring Comedy (s)
+http://strimer8.iptv-max.com:80/live?channelId=295&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="856" tvg-name="Film Autor (s)" tvg-logo="images/noicon.png" group-title="20. ALBANIA",Film Autor (s) - Film Autor (s)
+http://strimer8.iptv-max.com:80/live?channelId=856&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="857" tvg-name="Film Drame (s)" tvg-logo="images/noicon.png" group-title="20. ALBANIA",Film Drame (s) - Film Drame (s)
+http://strimer8.iptv-max.com:80/live?channelId=857&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="875" tvg-name="Supersport 1 HD (s)" tvg-logo="images/noicon.png" group-title="20. ALBANIA",Supersport 1 HD (s) - Supersport 1 HD (s)
+http://strimer8.iptv-max.com:80/live?channelId=875&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="848" tvg-name="Supersport 2 HD (s)" tvg-logo="images/noicon.png" group-title="20. ALBANIA",Supersport 2 HD (s) - Supersport 2 HD (s)
+http://strimer8.iptv-max.com:80/live?channelId=848&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="849" tvg-name="Super Sport 3 (s)" tvg-logo="images/noicon.png" group-title="20. ALBANIA",Super Sport 3 (s) - Super Sport 3 (s)
+http://strimer8.iptv-max.com:80/live?channelId=849&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="304" tvg-name="Tring Max (s)" tvg-logo="images/tringmax.png" group-title="20. ALBANIA",Tring Max (s) - Tring Max (s)
+http://strimer6.iptv-max.com:80/live?channelId=304&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="868" tvg-name="Tring LIfe (s)" tvg-logo="images/na.png" group-title="20. ALBANIA",Tring LIfe (s) - Tring LIfe (s)
+http://strimer8.iptv-max.com:80/live?channelId=868&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="870" tvg-name="Tring 3plus (s)" tvg-logo="images/na.png" group-title="20. ALBANIA",Tring 3plus (s) - Tring 3plus (s)
+http://strimer8.iptv-max.com:80/live?channelId=870&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="303" tvg-name="Tring Super (s)" tvg-logo="images/tringsuper.png" group-title="20. ALBANIA",Tring Super (s) - Tring Super (s)
+http://strimer6.iptv-max.com:80/live?channelId=303&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="368" tvg-name="Tring Planet (s)" tvg-logo="images/noicon.png" group-title="20. ALBANIA",Tring Planet (s) - Tring Planet (s)
+http://strimer8.iptv-max.com:80/live?channelId=368&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="369" tvg-name="Tring World (s)" tvg-logo="images/noicon.png" group-title="20. ALBANIA",Tring World (s) - Tring World (s)
+http://strimer8.iptv-max.com:80/live?channelId=369&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="871" tvg-name="Tring Living (s)" tvg-logo="images/na.png" group-title="20. ALBANIA",Tring Living (s) - Tring Living (s)
+http://strimer8.iptv-max.com:80/live?channelId=871&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="516" tvg-name="Tring tring (s)" tvg-logo="images/noicon.png" group-title="20. ALBANIA",Tring tring (s) - Tring tring (s)
+http://strimer8.iptv-max.com:80/live?channelId=516&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="370" tvg-name="Vizion Plus (s)" tvg-logo="images/noicon.png" group-title="20. ALBANIA",Vizion Plus (s) - Vizion Plus (s)
+http://strimer5.iptv-max.com:80/live?channelId=370&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="874" tvg-name="ktv (s)" tvg-logo="images/na.png" group-title="20. ALBANIA",ktv (s) - ktv (s)
+http://strimer8.iptv-max.com:80/live?channelId=874&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="869" tvg-name="3 plus (s)" tvg-logo="images/noicon.png" group-title="20. ALBANIA",3 plus (s) - 3 plus (s)
+http://strimer8.iptv-max.com:80/live?channelId=869&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="867" tvg-name="tiptv (s)" tvg-logo="images/na.png" group-title="20. ALBANIA",tiptv (s) - tiptv (s)
+http://strimer8.iptv-max.com:80/live?channelId=867&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="851" tvg-name="Cufo TV (s)" tvg-logo="images/noicon.png" group-title="20. ALBANIA",Cufo TV (s) - Cufo TV (s)
+http://strimer8.iptv-max.com:80/live?channelId=851&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="325" tvg-name="Bang Bang (s)" tvg-logo="images/bangbang.fw.png" group-title="20. ALBANIA",Bang Bang (s) - Bang Bang (s)
+http://strimer8.iptv-max.com:80/live?channelId=325&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="872" tvg-name="Kanali 7 (s)" tvg-logo="images/noicon.png" group-title="20. ALBANIA",Kanali 7 (s) - Kanali 7 (s)
+http://strimer8.iptv-max.com:80/live?channelId=872&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="873" tvg-name="Klan HD (s)" tvg-logo="images/noicon.png" group-title="20. ALBANIA",Klan HD (s) - Klan HD (s)
+http://strimer8.iptv-max.com:80/live?channelId=873&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="365" tvg-name="Tring Shqip (s)" tvg-logo="images/noicon.png" group-title="20. ALBANIA",Tring Shqip (s) - Tring Shqip (s)
+http://strimer8.iptv-max.com:80/live?channelId=365&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="858" tvg-name="Tring Sport 1 HD (s)" tvg-logo="images/noicon.png" group-title="20. ALBANIA",Tring Sport 1 HD (s) - Tring Sport 1 HD (s)
+http://strimer8.iptv-max.com:80/live?channelId=858&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="326" tvg-name="Top Channel HD (s)" tvg-logo="images/topchannel.fw.png" group-title="20. ALBANIA",Top Channel HD (s) - Top Channel HD (s)
+http://strimer8.iptv-max.com:80/live?channelId=326&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="327" tvg-name="SuperSport 1" tvg-logo="images/supersport1.png" group-title="20. ALBANIA",SuperSport 1 - SuperSport 1
+http://strimer5.iptv-max.com:80/live?channelId=327&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="330" tvg-name="SuperSport 4" tvg-logo="images/supersport4.png" group-title="20. ALBANIA",SuperSport 4 - SuperSport 4
+http://strimer5.iptv-max.com:80/live?channelId=330&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="352" tvg-name="musicAL" tvg-logo="images/na.png" group-title="20. ALBANIA",musicAL - musicAL
+http://strimer5.iptv-max.com:80/live?channelId=352&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="411" tvg-name="TVSH Tokesor" tvg-logo="images/tvshtokesor.png" group-title="20. ALBANIA",TVSH Tokesor - TVSH Tokesor
+http://nl.streamer.iptv-max.com:80/live?channelId=411&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="412" tvg-name="NEWS-24" tvg-logo="images/news-24.png" group-title="20. ALBANIA",NEWS-24 - NEWS-24
+http://strimer5.iptv-max.com:80/live?channelId=412&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="306" tvg-name="RTV 21 (m)" tvg-logo="images/rtv21.png" group-title="20. ALBANIA",RTV 21 (m) - RTV 21 (m)
+http://strimer5.iptv-max.com:80/live?channelId=306&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="324" tvg-name="Cufo Tv (m)" tvg-logo="images/cufotv.fw.png" group-title="20. ALBANIA",Cufo Tv (m) - Cufo Tv (m)
+http://strimer5.iptv-max.com:80/live?channelId=324&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="328" tvg-name="SuperSport 2 (m)" tvg-logo="images/supersport2.png" group-title="20. ALBANIA",SuperSport 2 (m) - SuperSport 2 (m)
+http://strimer5.iptv-max.com:80/live?channelId=328&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="329" tvg-name="SuperSport 3 (m)" tvg-logo="images/supersport3.png" group-title="20. ALBANIA",SuperSport 3 (m) - SuperSport 3 (m)
+http://strimer5.iptv-max.com:80/live?channelId=329&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="347" tvg-name="EXP shkence (m)" tvg-logo="images/expshkence.png" group-title="20. ALBANIA",EXP shkence (m) - EXP shkence (m)
+http://strimer5.iptv-max.com:80/live?channelId=347&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="348" tvg-name="EXP histori (m)" tvg-logo="images/exphistori.png" group-title="20. ALBANIA",EXP histori (m) - EXP histori (m)
+http://strimer5.iptv-max.com:80/live?channelId=348&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="350" tvg-name="Klan Tv  Alb (m)" tvg-logo="images/klantvalb.png" group-title="20. ALBANIA",Klan Tv  Alb (m) - Klan Tv  Alb (m)
+http://strimer5.iptv-max.com:80/live?channelId=350&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="363" tvg-name="Tirana TV (m)" tvg-logo="images/noicon.png" group-title="20. ALBANIA",Tirana TV (m) - Tirana TV (m)
+http://strimer5.iptv-max.com:80/live?channelId=363&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="366" tvg-name="TVSH (m)" tvg-logo="images/noicon.png" group-title="20. ALBANIA",TVSH (m) - TVSH (m)
+http://strimer5.iptv-max.com:80/live?channelId=366&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="380" tvg-name="AlsatM (m)" tvg-logo="images/alsatm.png" group-title="20. ALBANIA",AlsatM (m) - AlsatM (m)
+http://strimer5.iptv-max.com:80/live?channelId=380&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="428" tvg-name="RTK 1 (m)" tvg-logo="images/rtk.png" group-title="20. ALBANIA",RTK 1 (m) - RTK 1 (m)
+http://strimer5.iptv-max.com:80/live?channelId=428&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="430" tvg-name="RTV 21 Plus HD (m)" tvg-logo="images/rtv21plus.png" group-title="20. ALBANIA",RTV 21 Plus HD (m) - RTV 21 Plus HD (m)
+http://strimer5.iptv-max.com:80/live?channelId=430&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="432" tvg-name="Klan Kosova (m)" tvg-logo="images/klankosova.png" group-title="20. ALBANIA",Klan Kosova (m) - Klan Kosova (m)
+http://strimer5.iptv-max.com:80/live?channelId=432&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="436" tvg-name="Film Nje HD (m)" tvg-logo="images/filmnjehd.png" group-title="20. ALBANIA",Film Nje HD (m) - Film Nje HD (m)
+http://strimer5.iptv-max.com:80/live?channelId=436&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="437" tvg-name="Film Dy HD (m)" tvg-logo="images/filmdyhd.png" group-title="20. ALBANIA",Film Dy HD (m) - Film Dy HD (m)
+http://strimer5.iptv-max.com:80/live?channelId=437&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="438" tvg-name="Film Thriller (m)" tvg-logo="images/filmthriller.png" group-title="20. ALBANIA",Film Thriller (m) - Film Thriller (m)
+http://strimer5.iptv-max.com:80/live?channelId=438&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="439" tvg-name="Film Komedi (m)" tvg-logo="images/filmkomedi.png" group-title="20. ALBANIA",Film Komedi (m) - Film Komedi (m)
+http://strimer5.iptv-max.com:80/live?channelId=439&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="440" tvg-name="Film Hits (m)" tvg-logo="images/filmhitshd(de).png" group-title="20. ALBANIA",Film Hits (m) - Film Hits (m)
+http://strimer5.iptv-max.com:80/live?channelId=440&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="442" tvg-name="Film Autor (m)" tvg-logo="images/filmautor.png" group-title="20. ALBANIA",Film Autor (m) - Film Autor (m)
+http://strimer5.iptv-max.com:80/live?channelId=442&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="443" tvg-name="Film Aksion (m)" tvg-logo="images/na.png" group-title="20. ALBANIA",Film Aksion (m) - Film Aksion (m)
+http://strimer5.iptv-max.com:80/live?channelId=443&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="444" tvg-name="Jolly HD (m)" tvg-logo="images/na.png" group-title="20. ALBANIA",Jolly HD (m) - Jolly HD (m)
+http://strimer5.iptv-max.com:80/live?channelId=444&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="445" tvg-name="Folk + (m)" tvg-logo="images/na.png" group-title="20. ALBANIA",Folk + (m) - Folk plus (m)
+http://strimer5.iptv-max.com:80/live?channelId=445&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="447" tvg-name="Era TV (m)" tvg-logo="images/eratv.png" group-title="20. ALBANIA",Era TV (m) - Era TV (m)
+http://strimer4.iptv-max.com:80/live?channelId=447&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="876" tvg-name="Tring Comedy (m)" tvg-logo="images/noicon.png" group-title="20. ALBANIA",Tring Comedy (m) - Tring Comedy (m)
+http://strimer8.iptv-max.com:80/live?channelId=876&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="877" tvg-name="SuperSport HD1 (m)" tvg-logo="images/noicon.png" group-title="20. ALBANIA",SuperSport HD1 (m) - SuperSport HD1 (m)
+http://strimer8.iptv-max.com:80/live?channelId=877&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="878" tvg-name="SuperSport HD4 (m)" tvg-logo="images/noicon.png" group-title="20. ALBANIA",SuperSport HD4 (m) - SuperSport HD4 (m)
+http://strimer8.iptv-max.com:80/live?channelId=878&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="879" tvg-name="Vizion Plus (m)" tvg-logo="images/noicon.png" group-title="20. ALBANIA",Vizion Plus (m) - Vizion Plus (m)
+http://strimer8.iptv-max.com:80/live?channelId=879&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="880" tvg-name="Tring Max (m)" tvg-logo="images/noicon.png" group-title="20. ALBANIA",Tring Max (m) - Tring Max (m)
+http://strimer8.iptv-max.com:80/live?channelId=880&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="881" tvg-name="Film Plus HD (m)" tvg-logo="images/noicon.png" group-title="20. ALBANIA",Film Plus HD (m) - Film Plus HD (m)
+http://strimer5.iptv-max.com:80/live?channelId=881&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="882" tvg-name="Bang Bang (m)" tvg-logo="images/noicon.png" group-title="20. ALBANIA",Bang Bang (m) - Bang Bang (m)
+http://strimer8.iptv-max.com:80/live?channelId=882&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="884" tvg-name="Tring Tring (m)" tvg-logo="images/noicon.png" group-title="20. ALBANIA",Tring Tring (m) - Tring Tring (m)
+http://strimer8.iptv-max.com:80/live?channelId=884&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="885" tvg-name="Tring Super (m)" tvg-logo="images/noicon.png" group-title="20. ALBANIA",Tring Super (m) - Tring Super (m)
+http://strimer8.iptv-max.com:80/live?channelId=885&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="886" tvg-name="T HD (m)" tvg-logo="images/noicon.png" group-title="20. ALBANIA",T HD (m) - T HD (m)
+http://strimer8.iptv-max.com:80/live?channelId=886&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="887" tvg-name="musicAL (m)" tvg-logo="images/noicon.png" group-title="20. ALBANIA",musicAL (m) - musicAL (m)
+http://strimer8.iptv-max.com:80/live?channelId=887&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="888" tvg-name="Top Chanel HD (m)" tvg-logo="images/noicon.png" group-title="20. ALBANIA",Top Chanel HD (m) - Top Chanel HD (m)
+http://strimer8.iptv-max.com:80/live?channelId=888&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="889" tvg-name="Klan HD (m)" tvg-logo="images/noicon.png" group-title="20. ALBANIA",Klan HD (m) - Klan HD (m)
+http://strimer8.iptv-max.com:80/live?channelId=889&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="890" tvg-name="Film Stinet (m)" tvg-logo="images/noicon.png" group-title="20. ALBANIA",Film Stinet (m) - Film Stinet (m)
+http://strimer8.iptv-max.com:80/live?channelId=890&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="891" tvg-name="Film Gold (m)" tvg-logo="images/noicon.png" group-title="20. ALBANIA",Film Gold (m) - Film Gold (m)
+http://strimer8.iptv-max.com:80/live?channelId=891&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="892" tvg-name="KTV (m)" tvg-logo="images/noicon.png" group-title="20. ALBANIA",KTV (m) - KTV (m)
+http://strimer8.iptv-max.com:80/live?channelId=892&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="893" tvg-name="Tring Sport 1 (m)" tvg-logo="images/noicon.png" group-title="20. ALBANIA",Tring Sport 1 (m) - Tring Sport 1 (m)
+http://strimer8.iptv-max.com:80/live?channelId=893&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="894" tvg-name="Tring Sport 2 (m)" tvg-logo="images/noicon.png" group-title="20. ALBANIA",Tring Sport 2 (m) - Tring Sport 2 (m)
+http://strimer8.iptv-max.com:80/live?channelId=894&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="895" tvg-name="Tring Sport 3 (m)" tvg-logo="images/noicon.png" group-title="20. ALBANIA",Tring Sport 3 (m) - Tring Sport 3 (m)
+http://strimer8.iptv-max.com:80/live?channelId=895&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="896" tvg-name="Tring Sport 4 (m)" tvg-logo="images/noicon.png" group-title="20. ALBANIA",Tring Sport 4 (m) - Tring Sport 4 (m)
+http://strimer8.iptv-max.com:80/live?channelId=896&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="301" tvg-name="TRT 1" tvg-logo="images/noicon.png" group-title="21. TURSKI",TRT 1 - TRT 1
+http://strimer4.iptv-max.com:80/live?channelId=301&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="498" tvg-name="Show TV TR" tvg-logo="images/na.png" group-title="21. TURSKI",Show TV TR - Show TV TR
+http://strimer6.iptv-max.com:80/live?channelId=498&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="503" tvg-name="Kanal D TR" tvg-logo="images/na.png" group-title="21. TURSKI",Kanal D TR - Kanal D TR
+http://strimer6.iptv-max.com:80/live?channelId=503&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="504" tvg-name="Kanal 7 TR" tvg-logo="images/na.png" group-title="21. TURSKI",Kanal 7 TR - Kanal 7 TR
+http://strimer6.iptv-max.com:80/live?channelId=504&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="576" tvg-name="Samanyolu TV" tvg-logo="images/na.png" group-title="21. TURSKI",Samanyolu TV - Samanyolu TV
+http://strimer8.iptv-max.com:80/live?channelId=576&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="575" tvg-name="TV 8 TR" tvg-logo="/noicon.png" group-title="21. TURSKI",TV 8 TR - TV 8 TR
+http://strimer8.iptv-max.com:80/live?channelId=575&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="113" tvg-name="CNN Turk" tvg-logo="images/no.png" group-title="21. TURSKI",CNN Turk - CNN Haber
+http://strimer6.iptv-max.com:80/live?channelId=113&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="578" tvg-name="NTV Turkiye" tvg-logo="/noicon.png" group-title="21. TURSKI",NTV Turkiye - NTV Turkiye
+http://strimer5.iptv-max.com:80/live?channelId=578&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="579" tvg-name="NTV Sport tr" tvg-logo="/noicon.png" group-title="21. TURSKI",NTV Sport tr - NTV Sport tr
+http://strimer8.iptv-max.com:80/live?channelId=579&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="283" tvg-name="TRT Belgesel" tvg-logo="images/noicon.png" group-title="21. TURSKI",TRT Belgesel - TRT Belgesel
+http://nl.streamer.iptv-max.com:80/live?channelId=283&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="501" tvg-name="TRT 4" tvg-logo="images/na.png" group-title="21. TURSKI",TRT 4 - TRT 4
+http://strimer6.iptv-max.com:80/live?channelId=501&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="499" tvg-name="Star TV TR" tvg-logo="images/na.png" group-title="21. TURSKI",Star TV TR - Star TV TR
+http://strimer6.iptv-max.com:80/live?channelId=499&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="500" tvg-name="ATV Tr" tvg-logo="images/na.png" group-title="21. TURSKI",ATV Tr - ATV Tr
+http://strimer6.iptv-max.com:80/live?channelId=500&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="502" tvg-name="ULKE TV Tr" tvg-logo="images/na.png" group-title="21. TURSKI",ULKE TV Tr - ULKE TV Tr
+http://strimer6.iptv-max.com:80/live?channelId=502&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="505" tvg-name="BRT Tr" tvg-logo="images/na.png" group-title="21. TURSKI",BRT Tr - Brt Tr
+http://strimer6.iptv-max.com:80/live?channelId=505&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="577" tvg-name="FOX TR" tvg-logo="/noicon.png" group-title="21. TURSKI",FOX TR - FOX TR
+http://strimer8.iptv-max.com:80/live?channelId=577&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="580" tvg-name="Salon 2 HD" tvg-logo="images/na.png" group-title="21. TURSKI",Salon 2 HD - Salon 2 HD
+http://strimer8.iptv-max.com:80/live?channelId=580&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="581" tvg-name="Salon3 HD" tvg-logo="images/na.png" group-title="21. TURSKI",Salon3 HD - Salon3 HD
+http://strimer8.iptv-max.com:80/live?channelId=581&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="582" tvg-name="Dream Turk TV" tvg-logo="/noicon.png" group-title="21. TURSKI",Dream Turk TV - Dream Turk TV
+http://strimer8.iptv-max.com:80/live?channelId=582&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="357" tvg-name="Sky Cinema DE" tvg-logo="images/noicon.png" group-title="TEST",Sky Cinema DE - Sky Cinema DE
+http://nl.streamer.iptv-max.com:80/live?channelId=357&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="467" tvg-name="Sky Action DE (sd)" tvg-logo="images/skyactionde(sd).png" group-title="TEST",Sky Action DE (sd) - Sky Action DE (sd)
+http://nl.streamer.iptv-max.com:80/live?channelId=467&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="253" tvg-name="Smart ALFA BiH" tvg-logo="images/na.png" group-title="03. BOSANSKI",Smart ALFA BiH - SMART SPORT BH HD
+http://nl.streamer.iptv-max.com:80/live?channelId=253&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="344" tvg-name="Spiegel Geschichte  (DE)" tvg-logo="images/noicon.png" group-title="13. AUSTRIJSKI i NEMACKI",Spiegel Geschichte  (DE) - Spiegel History
+http://strimer6.iptv-max.com:80/live?channelId=344&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="355" tvg-name="National Geo Wild DE" tvg-logo="images/na.png" group-title="TEST",National Geo Wild DE - National Geo Wild DE
+http://nl.streamer.iptv-max.com:80/live?channelId=355&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="389" tvg-name="CinePLUS 3D" tvg-logo="images/na.png" group-title="08. FILMOVI I SERIJE",CinePLUS 3D - CinePLUS 3D
+http://strimer5.iptv-max.com:80/live?channelId=389&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="391" tvg-name="Crime Investigation test" tvg-logo="images/na.png" group-title="TEST",Crime Investigation test - Crime Investigation test
+http://strimer2.iptv-max.com:80/live?channelId=391&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="404" tvg-name="RUSSIA 24 vesti" tvg-logo="images/na.png" group-title="TEST",RUSSIA 24 vesti - RUSSIA  24 vesti
+http://strimer6.iptv-max.com:80/live?channelId=404&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="446" tvg-name="SHANSON TV" tvg-logo="images/na.png" group-title="TEST",SHANSON TV - RU MUSIC
+http://strimer4.iptv-max.com:80/live?channelId=446&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="845" tvg-name="France 24 info" tvg-logo="/noicon.png" group-title="TEST",France 24 info - France 24 test
+http://strimer3.iptv-max.com:80/live?channelId=845&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="846" tvg-name="HTB Pyc  test" tvg-logo="/noicon.png" group-title="TEST",HTB Pyc  test - ntb ruski
+http://strimer9.iptv-max.com:80/live?channelId=846&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="864" tvg-name="VEVO 1" tvg-logo="/noicon.png" group-title="TEST",VEVO 1 - VEVO 1
+http://vestfalija.str1.qwerttv.ws:80/live?channelId=864&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="866" tvg-name="Belgien-Local TV" tvg-logo="/noicon.png" group-title="TEST",Belgien-Local TV - TV Vesdre
+http://strimer9.iptv-max.com:80/live?channelId=866&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="901" tvg-name="TEST BACKUP" tvg-logo="/noicon.png" group-title="TEST",TEST BACKUP - 
+http://strimer7.iptv-max.com:80/live?channelId=901&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="554" tvg-name="Rai Italia" tvg-logo="images/noicon.png" group-title="TEST",Rai Italia - Rai Uno
+http://strimer5.iptv-max.com:80/live?channelId=554&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="135" tvg-name="XxX Plus 1 HD" tvg-logo="images/pinkerotic4.png" group-title="Odrasli + 18 XXX",XxX Plus 1 HD - XxX Plus 1 HD
+http://strimer3.iptv-max.com:80/live?channelId=135&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="133" tvg-name="XxX Plus 2 HD" tvg-logo="images/pinkerotic2.png" group-title="Odrasli + 18 XXX",XxX Plus 2 HD - XxX Plus 2 HD
+http://strimer3.iptv-max.com:80/live?channelId=133&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="426" tvg-name="XxX Plus 3 HD" tvg-logo="images/na.png" group-title="Odrasli + 18 XXX",XxX Plus 3 HD - XxX Plus 3 HD
+http://strimer9.iptv-max.com:80/live?channelId=426&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="400" tvg-name="Balkan erotic" tvg-logo="images/noicon.png" group-title="Odrasli + 18 XXX",Balkan erotic - Balkan erotic
+http://strimer2.iptv-max.com:80/live?channelId=400&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="266" tvg-name="Private" tvg-logo="images/privatetv.png" group-title="Odrasli + 18 XXX",Private - Private
+http://sc1.free-iptv.eu:80/live?channelId=266&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="452" tvg-name="Playhouse" tvg-logo="images/playhouse.png" group-title="Odrasli + 18 XXX",Playhouse - Playhouse
+http://strimer6.iptv-max.com:80/live?channelId=452&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="17" tvg-name="XxX Plus 3D" tvg-logo="images/pent.png" group-title="Odrasli + 18 XXX",XxX Plus 3D - XxX Plus 3D
+http://strimer8.iptv-max.com:80/live?channelId=17&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="29" tvg-name="Pink Erotic 1" tvg-logo="images/pinkerotic1.png" group-title="Odrasli + 18 XXX",Pink Erotic 1 - Pink Erotic 1
+http://strimer3.iptv-max.com:80/live?channelId=29&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="134" tvg-name="XPlus 3" tvg-logo="images/pinkerotic3.png" group-title="Odrasli + 18 XXX",XPlus 3 - Xplus 3
+http://strimer3.iptv-max.com:80/live?channelId=134&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="431" tvg-name="XPlux 1" tvg-logo="images/na.png" group-title="Odrasli + 18 XXX",XPlux 1 - XPlus 1
+http://strimer5.iptv-max.com:80/live?channelId=431&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="482" tvg-name="HOT plesure" tvg-logo="/noicon.png" group-title="Odrasli + 18 XXX",HOT plesure - HOT plesure
+http://strimer6.iptv-max.com:80/live?channelId=482&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="508" tvg-name="XXX vod 1" tvg-logo="images/na.png" group-title="Odrasli + 18 XXX",XXX vod 1 - XXX vod 1
+http://strimer4.iptv-max.com:80/live?channelId=508&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="509" tvg-name="XXX Vod 2" tvg-logo="/noicon.png" group-title="Odrasli + 18 XXX",XXX Vod 2 - XXX vod 2
+http://strimer4.iptv-max.com:80/live?channelId=509&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="535" tvg-name="MRT 2" tvg-logo="images/na.png" group-title="05. MAKEDONSKI",MRT 2 - MRT 2
+http://strimer3.iptv-max.com:80/live?channelId=535&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="587" tvg-name="Venus TV" tvg-logo="images/noicon.png" group-title="Odrasli + 18 XXX",Venus TV - venus tv
+http://nl.streamer.iptv-max.com:80/live?channelId=587&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="588" tvg-name="Hot CLub 1" tvg-logo="images/noicon.png" group-title="Odrasli + 18 XXX",Hot CLub 1 - Hot CLub 1
+http://nl.streamer.iptv-max.com:80/live?channelId=588&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="839" tvg-name="RED XXX" tvg-logo="images/noicon.png" group-title="Odrasli + 18 XXX",RED XXX - RED XXX
+http://strimer6.iptv-max.com:80/live?channelId=839&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="840" tvg-name="Hustler Tv HD" tvg-logo="images/noicon.png" group-title="Odrasli + 18 XXX",Hustler Tv HD - Hustler Tv
+http://strimer6.iptv-max.com:80/live?channelId=840&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
+#EXTINF:-1 tvg-id="897" tvg-name="Satisfaction" tvg-logo="images/na.png" group-title="Odrasli + 18 XXX",Satisfaction - Satisfaction
+http://strimer8.iptv-max.com:80/live?channelId=897&uid=8713&deviceUser=darkolukicacawels&devicePass=welsbregenzacadarko
